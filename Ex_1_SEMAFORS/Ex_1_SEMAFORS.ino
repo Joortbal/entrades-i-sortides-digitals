@@ -131,12 +131,12 @@ void loop()
   
   delay(1000);
   
-  digitalWrite(led3, LOW);
-  digitalWrite(led4, HIGH);
+  digitalWrite(led3, HIGH);
+  digitalWrite(led4, LOW);
   digitalWrite(led5, LOW);
   digitalWrite(led6, LOW);
-  digitalWrite(led7, LOW);
-  digitalWrite(led8, HIGH);
+  digitalWrite(led7, HIGH);
+  digitalWrite(led8, LOW);
   
   delay(1000);
   
